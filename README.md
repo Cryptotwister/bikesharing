@@ -7,3 +7,5 @@ Analysis of the Citi Bike data with tableau is a great choice as the purpose of 
 finding out the best times, top stations, demography, type of the users etc. to draw a proposal for Bike share in Des Moines for a presentation to an angel investor.
 
 # Results
+
+The visualizations can be viewed in tableau public as [Citi Bike Story](https://public.tableau.com/app/profile/sergei7887/viz/CitiBikiChallengeStory/CitiBikeStory?publish=yes).
