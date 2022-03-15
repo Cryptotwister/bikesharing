@@ -11,7 +11,7 @@ finding out the best times, top stations, demography, type of the users etc. to 
 The visualizations for the NYC bikeshare Analysis can be viewed in tableau public as [Citi Bike Story](https://public.tableau.com/app/profile/sergei7887/viz/CitiBikiChallengeStory/CitiBikeStory?publish=yes).
 
 ### Converting the data
-To begin with we have converted the data in the "tripduration" column from integer to a datetime datatype to have the correct time format using Python and Pandas.
+To begin with, we have converted the data in the "tripduration" column from integer to a datetime datatype to have the correct time format using Python and Pandas ([NYC_Citibike_Challenge](https://github.com/Cryptotwister/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)).
 ![Convert 'tripduration' to datetime dt](https://user-images.githubusercontent.com/42978221/158293667-2914d84e-e414-44cb-bfde-874e89a5a2bd.png)
 The DataFrame is exported as a new file without the index column. We use tableau to connect this new csv file to make visualizations.
 
