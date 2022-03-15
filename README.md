@@ -15,4 +15,29 @@ To begin with we have converted the data in the "tripduration" column from integ
 ![Convert 'tripduration' to datetime dt](https://user-images.githubusercontent.com/42978221/158293667-2914d84e-e414-44cb-bfde-874e89a5a2bd.png)
 The DataFrame is exported as a new file without the index column. We use tableau to connect this new csv file to make visualizations.
 
+### Peak Riding Hours in August
+![Peak Riding Hours in August](https://user-images.githubusercontent.com/42978221/158295209-a50483ae-860b-4d49-80b9-8d7c35ef2f79.png)
+
+### Checkout Times for Users
+![Checkout Times for Users](https://user-images.githubusercontent.com/42978221/158295257-a76549d3-1da8-4d5e-8df8-9bd448abac5f.png)
+
+### Checkout Times by Gender
+![Checkout Times by Gender](https://user-images.githubusercontent.com/42978221/158295275-ee38ded5-eb41-4cf7-851b-18c77eaa4ee0.png)
+
+### Trips by Weekday for Each Hour
+![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/42978221/158295304-d5f23a68-081b-46fa-9a12-5a054cd7d100.png)
+
+### Trips by Gender (Weekday per Hour)
+![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/42978221/158295340-3c875303-13df-4495-9571-fe573db7ecaa.png)
+
+### User Trips by Gender
+![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/42978221/158295380-11be0413-70f5-4e99-829a-963ab383947f.png)
+
+
+## Summary
+* Busiest hours are 8 to 10 AM and 5 to 8 PM;
+* Young people tend to ride for more time;
+* Most of the bikes are checked out by males;
+* Also, males are the most loyal subscribers and tend to use services more often.
+
 
